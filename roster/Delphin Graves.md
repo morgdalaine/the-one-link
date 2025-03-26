@@ -20,18 +20,22 @@ player:
 > | [Identity:: Agent of the Tartarus Association] |
 > | [Theme:: Duty] |
 > | [Origin:: Darham] |
-> | [Quirk:: [[Quirks#Stubborn Scion\|Stubborn Scion]]] |
+> | [Quirk:: [[Quirks#Revenant\|Revenant]]] |
 > | [pronouns:: she/her] |
-> | [race:: ] |
+> | [race:: Human/Hindseen ] |
 > | [class:: [[Rogue]] ] |
 > | [class:: [[Darkblade]] ] |
-> | [faction:: ] |
-> | [location:: ] |
+> | [faction:: The One Link, The Tartarus Association ] |
+> | [location:: Darham (Current) ] |
 >
 > ![[portrait-delphin.png]]
 > (description:: )
 
-# [[Delphin Graves|Delphin "Agent Nyx" Graves]]
+> [!quote|big invisible align-right headless]
+> It is not death that a man should fear,
+> But he should fear never beginning to live.
+
+## [[Delphin Graves|Delphin "Agent Nyx" Graves]]
 
 **Delphin "Agent Nyx" Graves**
 **Identity**: Agent of The Tartarus Association
