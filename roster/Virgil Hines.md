@@ -1,8 +1,8 @@
 ---
-title: Virgil
+title: Virgil Hines
 tags: [the-one-link, ttrpg]
 created: 2025-03-25
-modified: 2025-03-25
+modified: 2025-03-26
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -27,6 +27,7 @@ player:
 > | [faction:: ] |
 > | [location:: ] |
 >
+> ![[portrait-virgil.png]]
 > (description:: )
 
 # [[Virgil Hines]]

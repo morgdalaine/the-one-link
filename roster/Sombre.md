@@ -2,7 +2,7 @@
 title: Sombre
 tags: [the-one-link, ttrpg]
 created: 2025-03-24
-modified: 2025-03-25
+modified: 2025-03-26
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -27,11 +27,13 @@ player:
 > | [class:: [[Entropist]] ] |
 > | [faction:: ] |
 > | [location:: ] |
-
-# [[Sombre]]
+>
+> ![[portrait-sombre.png]]
 
 > [!quote|big invisible align-right headless]
 > It is time for a man with no face to appear.
+
+# [[Sombre]]
 
 A weapon master, Elementalist, and Entropist.
 

@@ -2,7 +2,7 @@
 title: Pip
 tags: [the-one-link, ttrpg]
 created: 2025-03-23
-modified: 2025-03-25
+modified: 2025-03-26
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -46,7 +46,6 @@ Mechanically, he is a tiny knowledge-knight who wields a huge tome.
 - _Loremaster_ is the core of his identity. I definitely plan on maxing this class first. He is a knowledge/weakness identifying character first and foremost.
 
 ---
-
 
 Long ago, there was an ancient civilization-and that civilization was ruled by an indifferent lord who beheld the world in his palms. He loved to learn, and so oft grew absorbed in reading, failing to listen to the words of the mortals that lived beneath his library that held knowledge of all things. Because of this, he oft gave the task of speaking with the humans to his brother, who held ire towards the mortals, for his brother found them lesser than he.
 

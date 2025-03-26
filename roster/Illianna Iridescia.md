@@ -1,8 +1,6 @@
 ---
 title: Illianna Iridescia
-tags:
-  - the-one-link
-  - ttrpg
+tags: [the-one-link, ttrpg]
 created: 2025-03-26
 modified: 2025-03-26
 type: pc
@@ -12,7 +10,7 @@ avatar:
 cssclasses:
   - the-one-link
 icon: LiUsers2
-player:
+player: 
 ---
 
 > [!wiki|headless]
@@ -30,6 +28,7 @@ player:
 > | [faction:: ] |
 > | [location:: ] |
 >
+> ![[portrait-illianna.png]]
 > (description:: )
 
 # [[Illianna Iridescia]]

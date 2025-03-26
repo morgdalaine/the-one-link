@@ -2,7 +2,7 @@
 title: Yura Tanith Galleria
 tags: [the-one-link, ttrpg]
 created: 2025-03-24
-modified: 2025-03-24
+modified: 2025-03-26
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -28,6 +28,7 @@ player:
 > | [faction:: ] |
 > | [location:: ] |
 >
+> ![[portrait-yura.png]]
 > (description:: )
 
 # [[Yura Tanith Galleria]]
@@ -50,7 +51,7 @@ Leaving the room, she felt a pang in her chest and looked to the green gem that 
 So she would slowly begin to discover the powers given to her by this curse and realize it wasn't so bad. As mama said: "Don't despair, keep going." That's exactly what Tanith would do: Go forward and learn more about this strange power.
 
 Rogue 3 (1 High Speed, 2 Soul Steal)
-Chimerist 1 (1 Spell Mimic) 
+Chimerist 1 (1 Spell Mimic)
 Elementalist 1 (1 Spellblade)
 
 (A few things like the heirloom, client and apparition were left intentionally blank for GMs to expand upon.)

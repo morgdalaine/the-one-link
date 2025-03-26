@@ -30,6 +30,7 @@ player:
 > | [location:: ] |
 > | [pronouns:: ] |
 >
+> ![[portrait-roderick.png]]
 > (description:: )
 
 # [[Roderick Mallory|Roderick "Red" Mallory]]

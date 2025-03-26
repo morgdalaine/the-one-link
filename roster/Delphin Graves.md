@@ -28,6 +28,7 @@ player:
 > | [faction:: ] |
 > | [location:: ] |
 >
+> ![[portrait-delphin.png]]
 > (description:: )
 
 # [[Delphin Graves|Delphin "Agent Nyx" Graves]]

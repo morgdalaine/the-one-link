@@ -2,7 +2,7 @@
 title: Alcazar
 tags: [the-one-link, ttrpg]
 created: 2025-03-23
-modified: 2025-03-24
+modified: 2025-03-26
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -29,6 +29,7 @@ player: Andrew
 > | [faction:: ] |
 > | [location:: ] |
 >
+> ![[portrait-alcazar.png]]
 > (description:: )
 
 # [[Alcazar]]
