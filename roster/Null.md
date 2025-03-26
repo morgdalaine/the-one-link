@@ -1,9 +1,11 @@
 ---
 title: "Null"
-tags: [the-one-link, ttrpg]
+tags:
+  - the-one-link
+  - ttrpg
 created: 2025-03-24
 modified: 2025-03-26
-type: 
+type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
 avatar: 
