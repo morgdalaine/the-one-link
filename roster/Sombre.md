@@ -7,9 +7,10 @@ type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
 avatar: 
-cssclasses: the-one-link
+cssclasses:
+  - the-one-link
 icon: LiUsers2
-player: 
+player: Pallas Kyri
 ---
 
 > [!wiki|headless]
@@ -31,7 +32,7 @@ player:
 > ![[portrait-sombre.png]]
 
 > [!quote|big invisible align-right headless]
-> It is time for a man with no face to appear.
+> Let your histories and achievements be remembered by all, lest you end up as another faceless soul.
 
 # [[Sombre]]
 

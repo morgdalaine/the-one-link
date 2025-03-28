@@ -2,7 +2,7 @@
 title: Virgil Hines
 tags: [the-one-link, ttrpg]
 created: 2025-03-25
-modified: 2025-03-26
+modified: 2025-03-28
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -18,7 +18,7 @@ player:
 > | ------------- |
 > | [identity:: A troubled witch, looking for answers] |
 > | [theme:: Love] |
-> | [origin:: Feraverdé] |
+> | [origin:: Feraverdé, Darham] |
 > | [quirk:: [[Quirks#Old Transport\|Old Transport]]] |
 > | [pronouns:: he/him] |
 > | [race:: ] |

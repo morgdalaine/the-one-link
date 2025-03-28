@@ -1,5 +1,5 @@
 ---
-title: Athena Island
+title: The Confederation of Artokos
 tags:
   - the-one-link
   - ttrpg
@@ -16,12 +16,14 @@ player:
 ---
 
 > [!wiki|headless]
->
+> 
 > |               |
 > | ------------- |
 > | [faction:: ] |
 > | [location:: Nation] |
 >
-> (description:: A mostly human Island that takes great emphasis on Arts and Science, with a council governing based on the calculation of their soul)
+> (description:: A federation of smaller nation states working together on a large arctic island.)
 
-# [[Athena Island]]
+# [[The Confederation of Artokos]]
+
+The Confederation of Artokos: A federation of smaller nation states working together on a large arctic island. Artokos is the name of the island itself.

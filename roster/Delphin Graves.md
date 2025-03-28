@@ -8,7 +8,8 @@ world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
 aliases: [Delphin "Agent Nyx" Graves]
 avatar: 
-cssclasses: the-one-link
+cssclasses:
+  - the-one-link
 icon: LiUsers2
 player: 
 ---
@@ -35,7 +36,7 @@ player:
 > It is not death that a man should fear,
 > But the one who brings about his death.
 
-## [[Delphin Graves|Delphin "Agent Nyx" Graves]]
+# [[Delphin Graves|Delphin "Agent Nyx" Graves]]
 
 **Delphin "Agent Nyx" Graves**
 **Identity**: Agent of The Tartarus Association
@@ -52,4 +53,7 @@ Delphin was given the moniker _Agent Nyx_, named after the effects that Rebirth 
 As tensions rise within Darham, high society talks warn of a coming conflict, and conflict breeds opportunity. Given the nature of her employment Delphin decided to take matters more into her own hands than The Tartarus Association was willing to do. Word spreads fast, and word in the high society circles is that a particular heiress has taken a leave of absence from the spotlight. This venture may prove dangerous, and protection may be required should anyone attempt a threat on her life.
 "By the will of Hades, it shall be done."
 
-**Class**: Rogue 3 (Dodge 1, High Speed 1, Cheap Shot 1), Darkblade 2 (Shadow Strike 1, Painful Lesson 1)
+## Classes
+
+**Rogue** 3 (Dodge 1, High Speed 1, Cheap Shot 1),
+**Darkblade** 2: (Shadow Strike 1, Painful Lesson 1)

@@ -1,5 +1,5 @@
 ---
-title: Athena Island
+title: Deep Delve
 tags:
   - the-one-link
   - ttrpg
@@ -22,6 +22,8 @@ player:
 > | [faction:: ] |
 > | [location:: Nation] |
 >
-> (description:: A mostly human Island that takes great emphasis on Arts and Science, with a council governing based on the calculation of their soul)
+> (description:: An underground nation sprawling out like a spider web.)
 
-# [[Athena Island]]
+# [[Deep Delve]]
+
+An underground nation sprawling out like a spider web. A surprising amount of people live within it.

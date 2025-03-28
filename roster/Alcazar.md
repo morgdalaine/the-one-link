@@ -32,6 +32,9 @@ player: Andrew
 > ![[portrait-alcazar.png]]
 > (description:: )
 
+> [!quote|big invisible align-right headless]
+> I am more than the sum of my parts
+
 # [[Alcazar]]
 
 Created in a secret lab within Eureka, a group of magitech scientists were hard at work creating a new war golem to surpass the current ones. The old ones lack _something_. They were good at following orders, but once they were left to their own devices, they lacked the ability to adapted to a constantly changing battlefield. That was until an idea was bloomed: they lacked a conscious and free thought! After months of hard labor they finally had a working prototype. Once they implemented the soul energy, Alcazar was born. Now with a conscious and free thought, Alcazar would overhear how he would be a perfect weapon in battle. Such sentences filled the golem with painful thoughts. Was this why he was born? To simply kill and destroy?

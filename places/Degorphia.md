@@ -1,8 +1,6 @@
 ---
 title: Degorphia
-tags:
-  - the-one-link
-  - ttrpg
+tags: [the-one-link, ttrpg]
 created: 2025-03-26
 modified: 2025-03-26
 type: place
@@ -12,16 +10,13 @@ avatar:
 cssclasses:
   - the-one-link
 icon: LiUsers2
-player:
+player: 
 ---
 
 > [!wiki|headless]
->
+> 
 > |               |
 > | ------------- |
-> | [pronouns:: ] |
-> | [race:: ] |
-> | [class:: ] |
 > | [faction:: ] |
 > | [location:: Nation] |
 >
@@ -30,3 +25,7 @@ player:
 # [[Degorphia]]
 
 Currently, Darham is getting more aggressive and trying to conquer it.
+
+## Sentaina
+
+A creepy seeming settlement that is surprisingly well kept together. Known for its large Leshy population with eccentric and spooky tastes

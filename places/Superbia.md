@@ -1,8 +1,6 @@
 ---
 title: Superbia
-tags:
-  - the-one-link
-  - ttrpg
+tags: [the-one-link, ttrpg]
 created: 2025-03-26
 modified: 2025-03-26
 type: place
@@ -12,16 +10,13 @@ avatar:
 cssclasses:
   - the-one-link
 icon: LiUsers2
-player:
+player: 
 ---
 
 > [!wiki|headless]
->
+> 
 > |               |
 > | ------------- |
-> | [pronouns:: ] |
-> | [race:: ] |
-> | [class:: ] |
 > | [faction:: ] |
 > | [location:: Nation] |
 >
@@ -30,3 +25,7 @@ player:
 # [[Superbia]]
 
 A land gifted with excellent alchemy to the point where gold is used to build buildings. However, the gold there turns to dust when stolen.
+
+## Scherzo
+
+A city full of amazing artists of all kinds.

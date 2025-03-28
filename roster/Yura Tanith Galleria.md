@@ -31,6 +31,9 @@ player:
 > ![[portrait-yura.png]]
 > (description:: )
 
+> [!quote|big invisible align-right headless]
+> The greatest treasure comes from within.
+
 # [[Yura Tanith Galleria]]
 
 **Identity**: The Soul Thief

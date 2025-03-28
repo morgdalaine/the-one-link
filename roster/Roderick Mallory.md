@@ -22,7 +22,7 @@ player:
 > | [Origin:: Darham] |
 > | [Quirk:: [[Quirks#Empty Hands\|Empty Hands]]] |
 > | [pronouns:: he/him] |
-> | [race:: ] |
+> | [race:: Human] |
 > | [class:: [[Fury]] ] |
 > | [class:: [[Rogue]] ] |
 > | [class:: [[Weaponmaster]] ] |
@@ -32,6 +32,10 @@ player:
 >
 > ![[portrait-roderick.png]]
 > (description:: )
+
+> [!quote|big invisible align-right headless]
+> I never cared about being a hero.
+> I just knew I couldn't sit back and let the bastards win.
 
 # [[Roderick Mallory|Roderick "Red" Mallory]]
 

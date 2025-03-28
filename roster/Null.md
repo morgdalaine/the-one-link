@@ -1,8 +1,6 @@
 ---
 title: "Null"
-tags:
-  - the-one-link
-  - ttrpg
+tags: [the-one-link, ttrpg]
 created: 2025-03-24
 modified: 2025-03-26
 type: pc
@@ -19,7 +17,7 @@ player: "[[Madeleine]]"
 >
 > |               |
 > | ------------- |
-> | [identity:: Former Imperial Demon Summon] |
+> | [identity:: Her Majesty's Imperial Demon] |
 > | [theme:: Rebellion] |
 > | [origin:: Athena Island, The Abyss] |
 > | [quirk:: [[Quirks#Fallen Angel\|Stranded Demon]]] |
@@ -41,11 +39,11 @@ player: "[[Madeleine]]"
 
 ## Her Majesty's Imperial Demon
 
-Technological and arcane advances allowed Imperialists to bind demons to themselves in exchange for another's soul. Forced to serve the Empire, Null committed atrocious acts against her will, hating herself for enjoying it at times. She was a weapon, leashed by blood-bound chains, her very essence twisted to obey.
+Technological and arcane advances allowed Imperialists to bind demons to themselves in exchange for another's soul. Forced to serve the Empire, Null committed atrocious acts. She was a weapon, leashed by blood-bound chains, her very essence twisted to obey.
 
 During the Battle of 🁢🁢🁢🁢, her Bound was killed, leaving her free but stranded—an unmoored fiend in enemy territory. The empire had no use for a rogue asset, and the rebellion had every reason to put her down. Yet, as she reeled from the sudden void in her being, something new took its place: choice.
 
-It was then that 🁢🁢🁢🁢, a rebel belonging to The One Link, found her. Rather than strike her down, they extended an offer: fight with them, not as a tool, but as something more. A gamble, a test—was a demon without chains still a monster, or could she be something else?
+It was then that 🁢🁢🁢🁢, a rebel belonging to The One Link, found her. Rather than strike her down, they extended an offer: fight with them, not as a tool, but as something more. A gamble, a test—was a demon without chains still a monster, or could she be something else?—not out of mercy, but to see if a weapon could truly change.
 
 ## Builds?
 

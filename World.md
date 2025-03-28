@@ -2,7 +2,7 @@
 title: The One Link
 tags: [fabula-ultima, ttrpg/world, west-march]
 created: 2025-03-23
-modified: 2025-03-25
+modified: 2025-03-26
 type: world
 world: "[[ttrpgs/The One Link/World|The One Link]]"
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -66,7 +66,6 @@ SORT sessionNum ASC
 > Write down some facts about this campaign or the world that the characters find themselves in.
 
 - [History of the World](https://docs.google.com/document/d/1GSPTL8M_FYgZdLS3CfCFIwitysFBTJeFlPUhsyHXGoY/edit?tab=t.0)
-- [Peoples of the World](https://docs.google.com/document/d/1NXiCMzjCcyKj83gMygSrUzHZgI5wyK54MwZ43EEIedc/edit?tab=t.0)
 - [Nations & Settlements](https://docs.google.com/document/d/11fw-ocRIJEuAAhWIz9-jouGN9hgTjTp6cjgTdfjJL4U/edit?tab=t.0)
 
 ## Factions
@@ -79,7 +78,11 @@ WHERE containsword(type, "faction")
 
 ![[one-link-factions]]
 
-## People
+## Prominent NPCs
+
+- [[Peoples of the World]]
+- [Peoples of the World | Google](https://docs.google.com/document/d/1NXiCMzjCcyKj83gMygSrUzHZgI5wyK54MwZ43EEIedc/edit?tab=t.0)
+- [The World as it Grows | Google](https://docs.google.com/document/d/1_UfZemZc_Gj2kqQThuRDIMGVmNQUySM-R71PBD2Rpwc/edit?tab=t.0)
 
 ```dataview
 TABLE pronouns, description
@@ -89,10 +92,10 @@ WHERE contains(type, "npc")
 
 ![[one-link-people]]
 
-## Places
+## Nations
 
 ```dataview
-TABLE location, description
+TABLE description
 FROM "ttrpgs/The One Link"
 WHERE containsword(type, "place")
 ```
