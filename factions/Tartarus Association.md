@@ -1,9 +1,9 @@
 ---
-title: Arzey
+title: Tartarus Association
 tags: [the-one-link, ttrpg]
 created: 2025-03-28
 modified: 2025-03-28
-type: npc
+type: faction
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
 cssclasses: the-one-link
@@ -19,17 +19,13 @@ publish: true
 > | [origin:: ] |
 > | [quirk:: ] |
 > | [class:: ] |
-> | [pronouns:: he/him] |
+> | [pronouns:: ] |
 > | [race:: ] |
-> | [faction:: [[The One Link]]] |
+> | [faction:: ] |
 > | [location:: ] |
 >
-> (description:: Recruiter for [[The One Link]].)
+> (description:: An organization devoted to the high societies of Darham.)
 
 > [!quote|big invisible align-right headless]
 
-# [[Arzey]]
-
-adjectives:: hairy, stoic, monotone, diligent
-
-A stoic orc who runs the books for the One Link, and is responsible for recruiting new members
+# [[Tartarus Association]]

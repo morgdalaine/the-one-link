@@ -2,25 +2,23 @@
 title: Illianna Iridescia
 tags: [the-one-link, ttrpg]
 created: 2025-03-26
-modified: 2025-03-26
+modified: 2025-03-28
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
 avatar: 
 cssclasses:
   - the-one-link
-icon: LiUsers2
-player: 
 ---
 
 > [!wiki|headless]
 >
 > |               |
 > | ------------- |
-> | [Identity:: Rafflesia Princess] |
-> | [Theme:: Duty] |
-> | [Origin:: Darham] |
-> | [Quirk:: [[Quirks#Stubborn Scion\|Stubborn Scion]]] |
+> | [identity:: Rafflesia Princess] |
+> | [theme:: Duty] |
+> | [origin:: Darham] |
+> | [quirk:: [[Quirks#Stubborn Scion\|Stubborn Scion]]] |
 > | [pronouns:: she/her] |
 > | [race:: ] |
 > | [class:: [[Orator]] ] |
@@ -50,5 +48,3 @@ Illianna like her siblings was trained since birth on ettiquette and noble relat
 Illianna's love for extravagance in conjunction with her self-obsessed and vicious demaenour is notorious throughout Darham and beyond, a dazzling natural disaster wherever she goes even amongst the commoners. Many would hide as her entourage of guards passed through, but couldn't help but peep to try and get a glimpse of that unfiltered glamour.  
 
 After making a scene at the spring gala (perhaps a little more than what was warranted) due to obnoxious suitors pestering her like flies, she declares that she would be going on vacation as she needed to receuperate after sharing air with 'dirty maggots taken human form'. Conveniently, her itinerary happened to match that of the Darham military movement. A coincidence? Hmmmm…
-
-**Class**: Orator 3 (Encourage 2, My trust in you 1), Spiritist 2 (Healing Power 1, Support Magic)

@@ -2,13 +2,22 @@
 title: Abyssinia
 tags: [the-one-link, ttrpg]
 created: 2025-03-26
-modified: 2025-03-26
+modified: 2025-03-28
 type: place
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
 cssclasses: the-one-link
 publish: true
 ---
+
+> [!wiki|headless]
+>
+> |               |
+> | ------------- |
+> | [faction:: ] |
+> | [location:: Nation] |
+>
+> (description:: A once great power when Magic was stronger and Bronze was the most powerful alloy in use.)
 
 # [[Abyssinia]]
 

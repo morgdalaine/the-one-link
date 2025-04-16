@@ -19,8 +19,8 @@ publish: true
 > | [origin:: ] |
 > | [quirk:: ] |
 > | [class:: ] |
-> | [pronouns:: ] |
-> | [race:: ] |
+> | [pronouns:: he/they] |
+> | [race:: Kobold] |
 > | [faction:: [[The One Link]]] |
 > | [location:: ] |
 >
@@ -29,3 +29,7 @@ publish: true
 > [!quote|big invisible align-right headless]
 
 # [[Aradin]]
+
+adjectives:: mysterious, intelligent, determined, passionate
+
+A kobold like a large black wolf and Leader and Founder of the One Link. He started the organization after seeing the growing hatred in Darham reach disquieting levels, seeing that he needed many others who thought like him to bring change.

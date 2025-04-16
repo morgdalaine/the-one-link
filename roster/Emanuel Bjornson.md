@@ -1,8 +1,6 @@
 ---
 title: Emanuel Bjornson
-tags:
-  - the-one-link
-  - ttrpg
+tags: [the-one-link, ttrpg]
 created: 2025-03-28
 modified: 2025-03-28
 type: pc
@@ -21,9 +19,10 @@ publish: true
 > | [theme:: Verita] |
 > | [origin:: Justice] |
 > | [quirk:: [[Quirks#Agitator\|Agitator]]] |
-> | [class:: ] |
-> | [pronouns:: ] |
-> | [race:: ] |
+> | [class:: Gourmet] |
+> | [class:: Sharpshooter] |
+> | [pronouns:: he/him] |
+> | [race:: Velsicka] |
 > | [faction:: ] |
 > | [location:: ] |
 >

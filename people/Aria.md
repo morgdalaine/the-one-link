@@ -22,8 +22,8 @@ publish: true
 > | [origin:: ] |
 > | [quirk:: ] |
 > | [class:: ] |
-> | [pronouns:: ] |
-> | [race:: ] |
+> | [pronouns:: she/her] |
+> | [race:: Assanu] |
 > | [faction:: [[The One Link]]] |
 > | [location:: ] |
 >
@@ -33,4 +33,6 @@ publish: true
 
 # [[Aria]]
 
+adjectives:: optimistic, stealthy, persuasive, tidy
 
+A kind Asanu soul who works for Aradin in Abyssinia. If you were recruited to the One Link in Abyssinia, you either ran into her, or she ran into you.

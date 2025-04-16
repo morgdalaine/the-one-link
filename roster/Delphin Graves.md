@@ -2,7 +2,7 @@
 title: 'Delphin "Agent Nyx" Graves'
 tags: [the-one-link, ttrpg]
 created: 2025-03-26
-modified: 2025-03-26
+modified: 2025-03-30
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -10,24 +10,22 @@ aliases: [Delphin "Agent Nyx" Graves]
 avatar: 
 cssclasses:
   - the-one-link
-icon: LiUsers2
-player: 
 ---
 
 > [!wiki|headless]
 >
 > |               |
 > | ------------- |
-> | [Identity:: Agent of the Tartarus Association] |
-> | [Theme:: Duty] |
-> | [Origin:: Darham] |
-> | [Quirk:: [[Quirks#Revenant\|Revenant]]] |
+> | [identity:: Agent of the Tartarus Association] |
+> | [theme:: Duty] |
+> | [origin:: Darham] |
+> | [quirk:: [[Quirks#Revenant\|Revenant]]] |
 > | [pronouns:: she/her] |
 > | [race:: Human/Hindseen ] |
 > | [class:: [[Rogue]] ] |
 > | [class:: [[Darkblade]] ] |
 > | [faction:: The Tartarus Association ] |
-> | [location:: Darham (Current) ] |
+> | [location:: Darham (Ortelia) ] |
 >
 > ![[portrait-delphin.png]]
 > (description:: )
@@ -51,9 +49,13 @@ The Tartarus Association cannot afford failure after all, and emotion gets in th
 Delphin was given the moniker _Agent Nyx_, named after the effects that Rebirth had on her. Espionage and assassination became the primary tasks given to her by the association, a job she did with needlepoint precision. Her efforts earned her a second Rebirth after one target became unusually prepared for her attempts. A second Rebirth is rare and often more painful than the first procedure, leaving her with residue from the necromantic energy. The strange ability to harness this residue in the form of shadows and ichor, at the cost of her own vitality. Though any sacrifice in support of the association is a worthy sacrifice.
 
 As tensions rise within Darham, high society talks warn of a coming conflict, and conflict breeds opportunity. Given the nature of her employment Delphin decided to take matters more into her own hands than The Tartarus Association was willing to do. Word spreads fast, and word in the high society circles is that a particular heiress has taken a leave of absence from the spotlight. This venture may prove dangerous, and protection may be required should anyone attempt a threat on her life.
+
 "By the will of Hades, it shall be done."
 
-## Classes
+## Delphin and The One Link
 
-**Rogue** 3 (Dodge 1, High Speed 1, Cheap Shot 1),
-**Darkblade** 2: (Shadow Strike 1, Painful Lesson 1)
+"By the grace of Persephone, it shall be done."
+
+A secret meeting, an exchange of words and information, all in an effort to gain knowledge on what exactly The One Link was planning. Their intentions seemed simple enough, liberation and freedom against the tyranny of Darham. Though The Tartarus Association _works_ for Darham, specifically Darhamian nobility. Agent Nyx became Delphin Graves, a noblewoman seeking to escape the turmoil and injustices of Darham and maybe even lend a helping hand to those in need. Whether this persona will hold true or not, only time will tell.
+
+"Pay no mind to the ravens, they only wish to listen."

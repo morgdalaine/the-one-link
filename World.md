@@ -2,7 +2,7 @@
 title: The One Link
 tags: [fabula-ultima, ttrpg/world, west-march]
 created: 2025-03-23
-modified: 2025-03-26
+modified: 2025-04-08
 type: world
 world: "[[ttrpgs/The One Link/World|The One Link]]"
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
@@ -11,6 +11,7 @@ cssclasses:
   - fabula-ultima
   - the-one-link
 permalink: the-one-link
+role: player
 status: active
 system:
   - "[[Fabula Ultima]]"
@@ -52,7 +53,7 @@ actions:
 ```
 
 ```dataview
-TABLE summary
+TABLE gm, summary
 FROM "ttrpgs/The One Link"
 WHERE containsword(type, "session")
 SORT sessionNum ASC
@@ -85,7 +86,7 @@ WHERE containsword(type, "faction")
 - [The World as it Grows | Google](https://docs.google.com/document/d/1_UfZemZc_Gj2kqQThuRDIMGVmNQUySM-R71PBD2Rpwc/edit?tab=t.0)
 
 ```dataview
-TABLE pronouns, description
+TABLE pronouns, adjectives, faction, description
 FROM "ttrpgs/The One Link"
 WHERE contains(type, "npc")
 ```

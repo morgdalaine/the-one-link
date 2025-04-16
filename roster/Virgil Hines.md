@@ -8,8 +8,6 @@ world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
 avatar: 
 cssclasses: the-one-link
-icon: LiUsers2
-player: 
 ---
 
 > [!wiki|headless]

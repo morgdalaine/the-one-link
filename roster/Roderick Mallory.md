@@ -1,26 +1,29 @@
 ---
-title: 'Roderick "Red" Mallory'
-tags: [the-one-link, ttrpg]
+title: Roderick "Red" Mallory
+tags:
+  - the-one-link
+  - ttrpg
 created: 2025-03-26
-modified: 2025-03-26
+modified: 2025-03-28
 type: pc
 world: The One Link
 campaign: "[[ttrpgs/The One Link/World|The One Link]]"
-aliases: [Roderick "Red" Mallory]
+aliases:
+  - Roderick "Red" Mallory
 avatar: 
-cssclasses: the-one-link
-icon: LiUsers2
-player: 
+cssclasses:
+  - the-one-link
+player: "[[Jamie]]"
 ---
 
 > [!wiki|headless]
 >
 > |               |
 > | ------------- |
-> | [Identity:: Reckless Brawler with a Heart of Gold] |
-> | [Theme:: Justice] |
-> | [Origin:: Darham] |
-> | [Quirk:: [[Quirks#Empty Hands\|Empty Hands]]] |
+> | [identity:: Reckless Brawler with a Heart of Gold] |
+> | [theme:: Justice] |
+> | [origin:: Darham] |
+> | [quirk:: [[Quirks#Empty Hands\|Empty Hands]]] |
 > | [pronouns:: he/him] |
 > | [race:: Human] |
 > | [class:: [[Fury]] ] |
